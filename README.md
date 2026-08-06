@@ -22,7 +22,9 @@ A WhatsApp Clone built using Kotlin, Jetpack Compose, Firebase Authentication, H
 
 ## 📱 Screenshots
 
-(Add your Splash, Welcome, and Phone Authentication screenshots here.)
+| Splash Screen | Welcome Screen | Phone Authentication |
+|---------------|----------------|----------------------|
+| ![](splash.jpg.jpeg) | ![](welcome.jpg.jpeg) | ![](phone-auth.jpg.jpeg) |
 
 ## 📚 Project Overview
 
